@@ -5963,7 +5963,7 @@
   "dependencies": {
     "@vscode/extension-telemetry": "^0.6.2",
     "chokidar": "^3.5.3",
-    "comment-json": "^4.1.1",
+    "comment-json": "^4.2.3",
     "editorconfig": "^0.15.3",
     "escape-string-regexp": "^2.0.0",
     "glob": "^7.1.6",
