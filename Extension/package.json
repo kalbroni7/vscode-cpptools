@@ -5973,7 +5973,7 @@
     "plist": "^3.0.5",
     "posix-getopt": "^1.2.1",
     "shell-quote": "^1.7.3",
-    "ssh-config": "^4.1.0",
+    "ssh-config": "^4.4.4",
     "tmp": "^0.2.1",
     "vscode-cpptools": "^6.1.0",
     "vscode-languageclient": "^8.0.1",
