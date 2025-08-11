@@ -5974,7 +5974,7 @@
     "posix-getopt": "^1.2.1",
     "shell-quote": "^1.7.3",
     "ssh-config": "^4.1.0",
-    "tmp": "^0.2.1",
+    "tmp": "^0.2.4",
     "vscode-cpptools": "^6.1.0",
     "vscode-languageclient": "^8.0.1",
     "vscode-nls": "^5.0.0",
